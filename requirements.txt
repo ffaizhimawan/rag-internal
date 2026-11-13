@@ -1,0 +1,8 @@
+   fastapi
+   uvicorn
+   sentence-transformers
+   chromadb
+   google-genai
+   python-dotenv
+   pydantic
+   pytest
